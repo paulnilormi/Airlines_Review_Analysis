@@ -11,12 +11,12 @@ As a beginner-friendly yet impactful analysis, the sentiment breakdown is based 
 
 ## 🧩 Tools & Skills Applied
 
-- 📊 Power BI	Desktop : Main Platform for Data modeling and visualisation
-- 📁 Power Quary : Data formatting, cleanup, for reshaping and preparing the data for import
-- 🧮 DAX (Data Analysis Expressions) :	Used for calculated columns, measures, and KPIs
-- 📈 Data Analysis	: Insight extraction from structured customer ratings
-- 🧩 Data Modeling :	Relationship establishment among tables to enable cross filteration and aggregation
-- 📚 Data Storytelling	: Designing business-friendly narratives with visuals
+📊 Power BI	Desktop : Main Platform for Data modeling and visualisation
+📁 Power Quary : Data formatting, cleanup, for reshaping and preparing the data for import
+🧮 DAX (Data Analysis Expressions) :	Used for calculated columns, measures, and KPIs
+📈 Data Analysis	: Insight extraction from structured customer ratings
+🧩 Data Modeling :	Relationship establishment among tables to enable cross filteration and aggregation
+📚 Data Storytelling	: Designing business-friendly narratives with visuals
 
 ---
 
