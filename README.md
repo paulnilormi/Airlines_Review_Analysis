@@ -62,18 +62,18 @@ How does The dashboard look like :  ![Dashboard Preview](https://github.com/paul
 
 📌Clone this repository
 
---git clone https://github.com/paulnilormi/Airlines_Review_Analysis.git
---cd Airlines_Review_Analysis
+-git clone https://github.com/paulnilormi/Airlines_Review_Analysis.git
+-cd Airlines_Review_Analysis
 
 📌Or simply click the green Code button on GitHub and choose Download ZIP.
 
---Install Power BI Desktop (If you don’t have it installed)
---Open the Dashboard File
---Launch Power BI Desktop
---Click on File > Open
---Navigate to the cloned/downloaded folder
---Open the file: Airlines_Review_Dashboard.pbix
---Make sure you have the correct .csv file loaded 
+-Install Power BI Desktop (If you don’t have it installed)
+-Open the Dashboard File
+-Launch Power BI Desktop
+-Click on File > Open
+-Navigate to the cloned/downloaded folder
+-Open the file: Airlines_Review_Dashboard.pbix
+-Make sure you have the correct .csv file loaded 
 
 
 ## 🧠 Ideal For:
