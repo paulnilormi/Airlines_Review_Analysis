@@ -20,11 +20,6 @@ As a beginner-friendly yet impactful analysis, the sentiment breakdown is based 
 
 ---
 
-## 🖼️ Dashboard Preview
-
-How does The dashboard look like :  ![Dashboard Preview](https://github.com/paulnilormi/Airlines_Review_Analysis/blob/main/Screenshot%202025-07-30%20205236.png)
-
----
 
 🎯 Objectives
 
@@ -56,3 +51,17 @@ The dashboard is designed to support airline decision-makers by:
 - Gained confidence to scale future projects with advanced analytics
 
 ---
+
+## 🖼️ Dashboard Preview
+
+How does The dashboard look like :  ![Dashboard Preview](https://github.com/paulnilormi/Airlines_Review_Analysis/blob/main/Screenshot%202025-07-30%20205236.png)
+
+---
+
+## ✅ How to Use / Run the Project
+
+--Clone or Download the Repository
+   Open your terminal or browser and either clone the repo:
+   ```bash
+   git clone https://github.com/your-username/airlines-review-analysis.git
+   cd airlines-review-analysis
