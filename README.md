@@ -58,10 +58,26 @@ How does The dashboard look like :  ![Dashboard Preview](https://github.com/paul
 
 ---
 
-## ✅ How to Use / Run the Project
+## 🚀 How to Run the Project:
 
---Clone or Download the Repository
-   Open your terminal or browser and either clone the repo:
-   ```bash
-   git clone https://github.com/your-username/airlines-review-analysis.git
-   cd airlines-review-analysis
+📌Clone this repository
+
+--git clone https://github.com/paulnilormi/Airlines_Review_Analysis.git
+--cd Airlines_Review_Analysis
+
+📌Or simply click the green Code button on GitHub and choose Download ZIP.
+
+--Install Power BI Desktop (If you don’t have it installed)
+--Open the Dashboard File
+--Launch Power BI Desktop
+--Click on File > Open
+--Navigate to the cloned/downloaded folder
+--Open the file: Airlines_Review_Dashboard.pbix
+--Make sure you have the correct .csv file loaded 
+
+
+## 🧠 Ideal For:
+
+📊 Beginner to intermediate data analysts and Python learners
+👩‍💻 Students looking for real-world project experience
+📈 Business and marketing enthusiasts interested in Airlines Surveys
